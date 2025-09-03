@@ -42,7 +42,7 @@
 
 ## [倖田 來未](https://www.youtube.com/@KODAKUMI_official)
 - [め組のひと](https://www.musixmatch.com/lyrics/Kumi-Koda/%E3%82%81%E7%B5%84%E3%81%AE%E3%81%B2%E3%81%A8-ETERNITY)
-- []()
+- [キューティーハニー](https://www.musixmatch.com/lyrics/Kumi-Koda-1/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8F%E3%83%8B%E3%83%BC-BEST-2000-2020-ver)
 - []()
 
 ## [中森明菜](https://www.youtube.com/@akinanakamoriofficial)

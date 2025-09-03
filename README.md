@@ -131,7 +131,8 @@
 ## 米津玄師
 - [KICK BACK](https://www.musixmatch.com/lyrics/13950465/kick-back)
 - [Lemon](https://www.musixmatch.com/lyrics/13950465/lemon)
-- []()
+- [打上花火](https://www.musixmatch.com/lyrics/DAOKO%C3%97%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
+- [LOSER](https://www.musixmatch.com/lyrics/13950465/loser)
 
 ## King Gnu
 - [SPECIALZ](https://www.musixmatch.com/lyrics/King-Gnu/SPECIALZ)

@@ -66,14 +66,14 @@
 - []()
 
 ## 竹内 まりや
-- []()
+- [Plastic Love](https://www.musixmatch.com/lyrics/Mariya-Takeuchi/Plastic-Love-10)
 - []()
 - []()
 
 ## 椎名 林檎
-- []()
-- []()
-- []()
+- [丸ノ内サディスティック](https://www.musixmatch.com/lyrics/Sheena-Ringo-2/%E4%B8%B8%E3%83%8E%E5%86%85%E3%82%B5%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF)
+- [長く短い祭](https://www.musixmatch.com/lyrics/Sheena-Ringo-feat-%E6%B5%AE%E9%9B%B2/%E9%95%B7%E3%81%8F%E7%9F%AD%E3%81%84%E7%A5%AD/translation/english)
+- [Ｗ●ＲＫ](https://www.musixmatch.com/lyrics/millennium-parade-Sheena-Ringo/W-RK)
 
 ##
 - []()

@@ -34,3 +34,26 @@
 - [Nandemonaiya - movie ver.](https://www.musixmatch.com/lyrics/RADWIMPS/Nandemonaiya-movie-ver)
 - []()
 - []()
+
+## 藤井風
+- [死ぬのがいいわ](https://www.musixmatch.com/lyrics/Fujii-Kaze/%E6%AD%BB%E3%81%AC%E3%81%AE%E3%81%8C%E3%81%84%E3%81%84%E3%82%8F)
+- [きらり](https://www.musixmatch.com/lyrics/Fujii-Kaze/%E3%81%8D%E3%82%89%E3%82%8A)
+
+## LiSA
+- [紅蓮華](https://www.musixmatch.com/lyrics/LISA-2/%E7%B4%85%E8%93%AE%E8%8F%AF)
+
+## 米津玄師
+- [KICK BACK](https://www.musixmatch.com/lyrics/13950465/kick-back)
+- [Lemon](https://www.musixmatch.com/lyrics/13950465/lemon)
+- []()
+
+## King Gnu
+- [SPECIALZ](https://www.musixmatch.com/lyrics/King-Gnu/SPECIALZ)
+- [白日](https://www.musixmatch.com/lyrics/King-Gnu/%E7%99%BD%E6%97%A5)
+
+## Ado
+- [うっせぇわ](https://www.musixmatch.com/lyrics/Ado-24/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F)
+- [新時代](https://www.musixmatch.com/lyrics/Ado-24/%E6%96%B0%E6%99%82%E4%BB%A3-%E3%82%A6%E3%82%BF-from-ONE-PIECE-FILM-RED)
+- [踊](https://www.musixmatch.com/lyrics/Ado-24/%E8%B8%8A)
+- []()
+

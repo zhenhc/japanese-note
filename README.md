@@ -5,17 +5,17 @@
 - [君に夢中](https://www.musixmatch.com/lyrics/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/Kimini-Muchuu)
 
 
-## 宇多田ヒカル
+## [宇多田ヒカル](https://www.youtube.com/@hikki)
 - [One Last Kiss](https://www.musixmatch.com/lyrics/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/One-Last-Kiss)
 - [君に夢中](https://www.musixmatch.com/lyrics/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/Kimini-Muchuu)
 - []()
 
-## B'z
+## [B'z](https://www.youtube.com/@bz7117)
 - [君の中で踊りたい](https://www.musixmatch.com/lyrics/B-z-2/%E5%90%9B%E3%81%AE%E4%B8%AD%E3%81%A7%E8%B8%8A%E3%82%8A%E3%81%9F%E3%81%84)
 - [だからその手を離して](https://www.musixmatch.com/lyrics/B-z-2/%E3%81%A0%E3%81%8B%E3%82%89%E3%81%9D%E3%81%AE%E6%89%8B%E3%82%92%E9%9B%A2%E3%81%97%E3%81%A6)
 - [BAD COMMUNICATION](https://www.musixmatch.com/lyrics/B-z-2/Bad-Communication)
 
-## 浜崎あゆみ
+## [浜崎あゆみ](https://www.youtube.com/@ayu)
 - []()
 - []()
 - []()
@@ -25,32 +25,32 @@
 - []()
 - []()
 
-## X Japan
+## [X Japan](https://www.youtube.com/@XJapanOfficial)
 - []()
 - []()
 - []()
 
-## 松田 聖子
+## [松田 聖子](https://www.youtube.com/@MatsudaSeiko_Official)
 - []()
 - []()
 - []()
 
-## L'Arc-en-Ciel
+## [L'Arc-en-Ciel](https://www.youtube.com/@LArc-en-Ciel)
 - []()
 - []()
 - []()
 
-## 倖田 來未
+## [倖田 來未](https://www.youtube.com/@KODAKUMI_official)
 - [め組のひと](https://www.musixmatch.com/lyrics/Kumi-Koda/%E3%82%81%E7%B5%84%E3%81%AE%E3%81%B2%E3%81%A8-ETERNITY)
 - []()
 - []()
 
-## 中森明菜
+## [中森明菜](https://www.youtube.com/@akinanakamoriofficial)
 - []()
 - []()
 - []()
 
-## 中島みゆき
+## [中島みゆき](https://www.youtube.com/@miyukiofficial)
 - []()
 - []()
 - []()

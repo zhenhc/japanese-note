@@ -144,4 +144,10 @@
 - [踊](https://www.musixmatch.com/lyrics/Ado-24/%E8%B8%8A)
 - []()
 
+## Nujabes
+- [Counting Stars]()
+- [四季ノ唄](https://www.musixmatch.com/lyrics/Gabou-2/Shiki-No-Uta-Samurai-Champloo)
+- [battlecry](https://www.musixmatch.com/lyrics/Nujabes/battlecry)
+
+
 

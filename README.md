@@ -41,7 +41,7 @@
 - []()
 
 ## 倖田 來未
-- []()
+- [め組のひと](https://www.musixmatch.com/lyrics/Kumi-Koda/%E3%82%81%E7%B5%84%E3%81%AE%E3%81%B2%E3%81%A8-ETERNITY)
 - []()
 - []()
 

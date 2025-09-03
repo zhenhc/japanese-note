@@ -11,9 +11,9 @@
 - []()
 
 ## B'z
-- []()
-- []()
-- []()
+- [君の中で踊りたい](https://www.musixmatch.com/lyrics/B-z-2/%E5%90%9B%E3%81%AE%E4%B8%AD%E3%81%A7%E8%B8%8A%E3%82%8A%E3%81%9F%E3%81%84)
+- [だからその手を離して](https://www.musixmatch.com/lyrics/B-z-2/%E3%81%A0%E3%81%8B%E3%82%89%E3%81%9D%E3%81%AE%E6%89%8B%E3%82%92%E9%9B%A2%E3%81%97%E3%81%A6)
+- [BAD COMMUNICATION](https://www.musixmatch.com/lyrics/B-z-2/Bad-Communication)
 
 ## 浜崎あゆみ
 - []()

@@ -1,8 +1,8 @@
 # 日语歌词
 
 ## 宇多田ヒカル
-- []()
-- []()
+- [One Last Kiss](https://www.musixmatch.com/lyrics/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/One-Last-Kiss)
+- [君に夢中](https://www.musixmatch.com/lyrics/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/Kimini-Muchuu)
 - []()
 
 ## B'z

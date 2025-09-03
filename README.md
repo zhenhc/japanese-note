@@ -21,7 +21,7 @@
 - []()
 
 ## 安室 奈美恵
-- []()
+- [Mint](https://www.musixmatch.com/lyrics/%E5%AE%89%E5%AE%A4%E5%A5%88%E7%BE%8E%E6%81%B5/Mint)  [---youtube](https://youtu.be/1Y5RHBe_ZVc?si=_VeS102DeVzIS1uW)
 - []()
 - []()
 

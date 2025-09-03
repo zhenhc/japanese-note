@@ -121,7 +121,7 @@
 - []()
 - []()
 
-## 藤井風
+## [藤井風](https://www.youtube.com/@FujiiKaze)
 - [死ぬのがいいわ](https://www.musixmatch.com/lyrics/Fujii-Kaze/%E6%AD%BB%E3%81%AC%E3%81%AE%E3%81%8C%E3%81%84%E3%81%84%E3%82%8F)
 - [きらり](https://www.musixmatch.com/lyrics/Fujii-Kaze/%E3%81%8D%E3%82%89%E3%82%8A)
 
@@ -134,17 +134,17 @@
 - [打上花火](https://www.musixmatch.com/lyrics/DAOKO%C3%97%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
 - [LOSER](https://www.musixmatch.com/lyrics/13950465/loser)
 
-## King Gnu
-- [SPECIALZ](https://www.musixmatch.com/lyrics/King-Gnu/SPECIALZ)
-- [白日](https://www.musixmatch.com/lyrics/King-Gnu/%E7%99%BD%E6%97%A5)
+## [King Gnu](https://www.youtube.com/@KingGnuOfficial)
+- [SPECIALZ](https://www.musixmatch.com/lyrics/King-Gnu/SPECIALZ)  [---youtube](https://youtu.be/fhzKLBZJC3w?si=sdyESrbSoPxjGCSy)
+- [白日](https://www.musixmatch.com/lyrics/King-Gnu/%E7%99%BD%E6%97%A5)  [---youtube](https://youtu.be/ony539T074w?si=tbgaIJlYGPmEGt4W)
 
-## Ado
+## [Ado](https://www.youtube.com/@Ado1024)
 - [うっせぇわ](https://www.musixmatch.com/lyrics/Ado-24/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F)
 - [新時代](https://www.musixmatch.com/lyrics/Ado-24/%E6%96%B0%E6%99%82%E4%BB%A3-%E3%82%A6%E3%82%BF-from-ONE-PIECE-FILM-RED)
 - [踊](https://www.musixmatch.com/lyrics/Ado-24/%E8%B8%8A)
 - []()
 
-## Nujabes
+## [Nujabes](https://www.youtube.com/@Nujabes19740207)
 - [Counting Stars]()
 - [四季ノ唄](https://www.musixmatch.com/lyrics/Gabou-2/Shiki-No-Uta-Samurai-Champloo)  [---youtube](https://youtu.be/fy3LmR4eX1E?si=Frpni6jZU9708XfA)
 - [battlecry](https://www.musixmatch.com/lyrics/Nujabes/battlecry)

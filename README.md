@@ -1,7 +1,7 @@
 # 日语歌词
 
 ## Aimyon
-- [マリーゴールド(Marigold)](https://www.musixmatch.com/lyrics/aimyon/Marigold)[假名注音]()
+- [マリーゴールド(Marigold)](https://www.musixmatch.com/lyrics/aimyon/Marigold)  [假名注音](./lyrics/愛を伝えたいだとか.md)
 - [愛を伝えたいだとか](https://www.musixmatch.com/lyrics/aimyon-2/%E6%84%9B%E3%82%92%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E3%81%A0%E3%81%A8%E3%81%8B)
 - [君はロックを聴かない](https://www.musixmatch.com/lyrics/aimyon-2/%E5%90%9B%E3%81%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84)
 

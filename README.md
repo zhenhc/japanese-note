@@ -146,7 +146,7 @@
 
 ## Nujabes
 - [Counting Stars]()
-- [四季ノ唄](https://www.musixmatch.com/lyrics/Gabou-2/Shiki-No-Uta-Samurai-Champloo)
+- [四季ノ唄](https://www.musixmatch.com/lyrics/Gabou-2/Shiki-No-Uta-Samurai-Champloo)  [youtube](https://youtu.be/fy3LmR4eX1E?si=Frpni6jZU9708XfA)
 - [battlecry](https://www.musixmatch.com/lyrics/Nujabes/battlecry)
 
 

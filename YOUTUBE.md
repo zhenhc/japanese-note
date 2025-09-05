@@ -4,6 +4,8 @@
 - [ABEMA Prime #アベプラ](https://www.youtube.com/@prime_ABEMA)
 - [ABEMA【アベマ】公式](https://www.youtube.com/@abema)
 - [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
+- [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)
+- [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
 
 ### 关于外国人
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)
@@ -22,8 +24,10 @@
 - [蔡桑神鬼夜話](https://www.youtube.com/@%E8%94%A1%E6%A1%91%E7%A5%9E%E9%AC%BC%E5%A4%9C%E8%A9%B1)
 - [工頭堅。旅行長](https://www.youtube.com/@ctoken)
 - [老梁](https://www.youtube.com/@laoliang1972)
+- [叉雞](https://www.youtube.com/@bbqporkchicken)
+- 
 
 
 ## 英语频道
 - [Unpacking Japan](https://www.youtube.com/@unpackingjapan)
-- 
+- [Trash Taste](https://www.youtube.com/@TrashTaste)

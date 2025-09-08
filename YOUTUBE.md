@@ -6,6 +6,7 @@
 - [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
 - [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)
 - [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
+- [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
 
 ### 关于外国人
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)

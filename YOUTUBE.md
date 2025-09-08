@@ -18,6 +18,7 @@
 - [チャイナ娘くまちゃん](https://www.youtube.com/@kumajiang)
 - [マイティー・ポー【中国人アル】](https://www.youtube.com/@KinshichouBoy)
 - [とある中国人のむいむい](https://www.youtube.com/@chinese-muimui)
+- [タロサックの海外生活ダイアリーTAROSAC](https://www.youtube.com/@tarosac1990)
 
 ## 中文频道
 - [李天豪](https://www.youtube.com/@leecehao)

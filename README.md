@@ -12,16 +12,16 @@
 - []()
 
 ## [B'z](https://www.youtube.com/@bz7117)
-- [君の中で踊りたい](https://www.musixmatch.com/lyrics/B-z-2/%E5%90%9B%E3%81%AE%E4%B8%AD%E3%81%A7%E8%B8%8A%E3%82%8A%E3%81%9F%E3%81%84)
-- [だからその手を離して](https://www.musixmatch.com/lyrics/B-z-2/%E3%81%A0%E3%81%8B%E3%82%89%E3%81%9D%E3%81%AE%E6%89%8B%E3%82%92%E9%9B%A2%E3%81%97%E3%81%A6)
-- [BAD COMMUNICATION](https://www.musixmatch.com/lyrics/B-z-2/Bad-Communication)
+- [君の中で踊りたい](https://utaten.com/lyric/ja00004481/)
+- [だからその手を離して](https://utaten.com/lyric/jb51010281/)
+- [BAD COMMUNICATION](https://utaten.com/lyric/ja00004513/)
 
 ## [浜崎あゆみ](https://www.youtube.com/@ayu)
 - []()
 - []()
 - []()
 
-## 安室 奈美恵
+## [安室 奈美恵](https://utaten.com/artist/708/)
 - [Mint](https://utaten.com/lyric/sa16051901/)
 - []()
 - []()
@@ -67,13 +67,13 @@
 - []()
 
 ## [竹内 まりや](https://www.youtube.com/@mariyatakeuchiofficial)
-- [Plastic Love](https://www.musixmatch.com/lyrics/Mariya-Takeuchi/Plastic-Love-10)
+- [Plastic Love](https://utaten.com/lyric/qa21108042/)
 - []()
 - []()
 
 ## [椎名 林檎](https://www.youtube.com/@ringosheenaofficial)
-- [丸ノ内サディスティック](https://www.musixmatch.com/lyrics/Sheena-Ringo-2/%E4%B8%B8%E3%83%8E%E5%86%85%E3%82%B5%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF)
-- [長く短い祭](https://www.musixmatch.com/lyrics/Sheena-Ringo-feat-%E6%B5%AE%E9%9B%B2/%E9%95%B7%E3%81%8F%E7%9F%AD%E3%81%84%E7%A5%AD/translation/english)
+- [丸ノ内サディスティック](https://utaten.com/lyric/yb18052329/)
+- [長く短い祭](https://utaten.com/lyric/yx15080502/)
 - [Ｗ●ＲＫ](https://www.musixmatch.com/lyrics/millennium-parade-Sheena-Ringo/W-RK)
 
 ##
@@ -88,9 +88,9 @@
 
 
 ## [Aimyon](https://www.youtube.com/@aimyong)
-- [マリーゴールド(Marigold)](https://www.musixmatch.com/lyrics/aimyon/Marigold)  [假名注音](./lyrics/愛を伝えたいだとか.md)
-- [愛を伝えたいだとか](https://www.musixmatch.com/lyrics/aimyon-2/%E6%84%9B%E3%82%92%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E3%81%A0%E3%81%A8%E3%81%8B)
-- [君はロックを聴かない](https://www.musixmatch.com/lyrics/aimyon-2/%E5%90%9B%E3%81%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84)
+- [マリーゴールド(Marigold)](https://utaten.com/lyric/ma18062909/)
+- [愛を伝えたいだとか](https://utaten.com/lyric/sa17040511/)
+- [君はロックを聴かない](https://utaten.com/lyric/sa17070510/)
 
 ## [Vaundy](https://www.youtube.com/@Vaundy)
 - [怪獣の花唄](https://www.musixmatch.com/lyrics/Vaundy/%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84)

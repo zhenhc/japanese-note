@@ -5,13 +5,12 @@
 - [君に夢中](https://utaten.com/lyric/un21113001/) 
 - [上を向いて歩こう](https://utaten.com/lyric/yg15073136/)
 
-# soft artists
-
-## [Uru](https://utaten.com/artist/18639/)
-## [さとうもか](https://utaten.com/artist/25336/)
-## [りりあ。](https://utaten.com/artist/38285/)
-## [鹿乃](https://utaten.com/artist/11646/)
-## []()
+## soft artists
+- [Uru](https://utaten.com/artist/18639/)
+- [さとうもか](https://utaten.com/artist/25336/)
+- [りりあ。](https://utaten.com/artist/38285/)
+- [鹿乃](https://utaten.com/artist/11646/)
+- []()
 
 ## [宇多田ヒカル](https://www.youtube.com/@hikki)
 - [One Last Kiss](https://utaten.com/lyric/ma21031018/)

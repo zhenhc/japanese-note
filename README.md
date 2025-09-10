@@ -12,6 +12,13 @@
 - [鹿乃](https://utaten.com/artist/11646/)
 - []()
 
+### youtube playlist
+- [超チルい](https://www.youtube.com/watch?v=ZcIjzcbux5c)
+- [Japanese RnB](https://www.youtube.com/watch?v=-EsLS2v886w)
+- []()
+- []()
+
+
 ## [宇多田ヒカル](https://www.youtube.com/@hikki)
 - [One Last Kiss](https://utaten.com/lyric/ma21031018/)
 - [君に夢中](https://utaten.com/lyric/un21113001/)

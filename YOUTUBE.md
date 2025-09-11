@@ -21,6 +21,14 @@
 - [タロサックの海外生活ダイアリーTAROSAC](https://www.youtube.com/@tarosac1990)
 - [すぱしーば ちゃんねる](https://www.youtube.com/@spashivachannel)
 
+### 美女
+- [うみちゃんねる【東雲うみ】](https://www.youtube.com/@umi_shinonome)
+- []()
+- []()
+- []()
+
+
+
 ## 中文频道
 - [李天豪](https://www.youtube.com/@leecehao)
 - [WTO姐妹會](https://www.youtube.com/@WTOSS)

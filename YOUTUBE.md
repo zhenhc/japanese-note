@@ -11,6 +11,7 @@
 ## [明星频道](https://www.talentinsta.com/youtuber/)
 - [よにのちゃんねる](https://www.youtube.com/@yoninochannel)
 - [川口春奈オフィシャル はーちゃんねる](https://www.youtube.com/@%E5%B7%9D%E5%8F%A3%E6%98%A5%E5%A5%88%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%81%AF%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD)
+- [佐藤 健 / Satoh Takeru](https://www.youtube.com/channel/UC3BSzbgMn2vLYS4Dp_i-bow)
 - [ほんだのばいく](https://www.youtube.com/@HondaNoBaiku)
 - [佐々木 希 (仮)](https://www.youtube.com/@nozomi_sasaki)
 - [新木優子 / YUKO ARAKI](https://www.youtube.com/@ARAKIYUKO_official)
@@ -23,9 +24,9 @@
 - [さしはらちゃんねる](https://www.youtube.com/channel/UCfnSEB4atVWATf6vzepHzqw)
 - [深田えいみ / Eimi Fukada](https://www.youtube.com/channel/UCRUdyowhXEQhoNT7uNEvGJA)
 - [エガちゃんねる 〜替えのパンツ〜](https://www.youtube.com/channel/UCU607BfClX724VqZZ9zWWcA)
+- [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/channel/UCL6JY2DXJNDOIqCP1CRADng)
 - [鈴川絢子/Suzukawa Ayako](https://www.youtube.com/channel/UCrd9neCNtPkvQukpNTYrP4Q)
 - [ゆあちゃんねる! 三上悠亜オフィシャルYoutube](https://www.youtube.com/channel/UC0BCfHbNORhd7dsw1R5rw9w)
-
 
 ### 关于外国人
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)

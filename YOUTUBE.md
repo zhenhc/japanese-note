@@ -8,6 +8,12 @@
 - [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
 - [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
 
+## 明星频道
+- [よにのちゃんねる](https://www.youtube.com/@yoninochannel)
+- []()
+- []()
+
+
 ### 关于外国人
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)
 - [あしや Ashiya](https://www.youtube.com/@azuminoashiya)

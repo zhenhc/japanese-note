@@ -8,10 +8,23 @@
 - [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
 - [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
 
-## 明星频道
+## [明星频道](https://www.talentinsta.com/youtuber/)
 - [よにのちゃんねる](https://www.youtube.com/@yoninochannel)
-- []()
-- []()
+- [川口春奈オフィシャル はーちゃんねる](https://www.youtube.com/@%E5%B7%9D%E5%8F%A3%E6%98%A5%E5%A5%88%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%81%AF%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD)
+- [ほんだのばいく](https://www.youtube.com/@HondaNoBaiku)
+- [佐々木 希 (仮)](https://www.youtube.com/@nozomi_sasaki)
+- [新木優子 / YUKO ARAKI](https://www.youtube.com/@ARAKIYUKO_official)
+- [木村拓哉](https://www.youtube.com/@takuya.kimura.official)
+- [藤田ニコル⭐️NICOLE FUJITA](https://www.youtube.com/@nicolefujita7284)
+- [仲里依紗です。](https://www.youtube.com/channel/UCJyGoLz_sLHHHI1uEPg6UhA)
+- [辻ちゃんネル](https://www.youtube.com/channel/UCNiurMpWExWgio2lqldycbA)
+- [白石麻衣 公式](https://www.youtube.com/channel/UCUApURCve0BEqv6Sa9x_OJg)
+- [NAOMI CLUB](https://www.youtube.com/channel/UCFFH1T9H5J7lAr4tkhjoVmw)\
+- [さしはらちゃんねる](https://www.youtube.com/channel/UCfnSEB4atVWATf6vzepHzqw)
+- [深田えいみ / Eimi Fukada](https://www.youtube.com/channel/UCRUdyowhXEQhoNT7uNEvGJA)
+- [エガちゃんねる 〜替えのパンツ〜](https://www.youtube.com/channel/UCU607BfClX724VqZZ9zWWcA)
+- [鈴川絢子/Suzukawa Ayako](https://www.youtube.com/channel/UCrd9neCNtPkvQukpNTYrP4Q)
+- [ゆあちゃんねる! 三上悠亜オフィシャルYoutube](https://www.youtube.com/channel/UC0BCfHbNORhd7dsw1R5rw9w)
 
 
 ### 关于外国人

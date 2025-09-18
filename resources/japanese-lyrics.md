@@ -75,10 +75,10 @@
 - []()
 - []()
 
-## 山口 百恵
-- []()
-- []()
-- []()
+## [山口 百恵](https://utaten.com/artist/1020/)
+- [秋桜](https://utaten.com/lyric/ja00006013/)
+- [いい日旅立ち](https://utaten.com/lyric/ja00006010/)
+- [プレイバックPartⅡ](https://utaten.com/lyric/ja00006023/)
 
 ## [竹内 まりや](https://www.youtube.com/@mariyatakeuchiofficial)
 - [Plastic Love](https://utaten.com/lyric/qa21108042/)

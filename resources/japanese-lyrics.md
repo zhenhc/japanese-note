@@ -95,10 +95,10 @@
 - [塊オンザスウィング](https://utaten.com/lyric/mi22111036/)
 - [愛のカタマリー](https://utaten.com/lyric/mi24090452/)
 
-## 
-- []()
-- []()
-- []()
+## [村下孝蔵](https://utaten.com/artist/846/)
+- [初恋](https://utaten.com/lyric/ja00005681/)
+- [踊り子](https://utaten.com/lyric/ja00007035/)
+- [花れん](https://utaten.com/lyric/yl15061173/)
 
 
 ## [Aimyon](https://www.youtube.com/@aimyong)

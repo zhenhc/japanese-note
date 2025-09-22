@@ -90,10 +90,10 @@
 - [長く短い祭](https://utaten.com/lyric/yx15080502/)
 - [Ｗ●ＲＫ](https://www.musixmatch.com/lyrics/millennium-parade-Sheena-Ringo/W-RK)
 
-##
-- []()
-- []()
-- []()
+## [松崎しげる](https://utaten.com/artist/900/)
+- [キセキ](https://utaten.com/lyric/yj15120432/)
+- [塊オンザスウィング](https://utaten.com/lyric/mi22111036/)
+- [愛のカタマリー](https://utaten.com/lyric/mi24090452/)
 
 ## 
 - []()

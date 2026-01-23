@@ -43,6 +43,7 @@
 - [タロサックの海外生活ダイアリーTAROSAC](https://www.youtube.com/@tarosac1990)
 - [すぱしーば ちゃんねる](https://www.youtube.com/@spashivachannel)
 - [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
+- [ナスチャンネル Nastia in Japan](https://www.youtube.com/@NasChannelBel)
 
 
 ## 汉语频道

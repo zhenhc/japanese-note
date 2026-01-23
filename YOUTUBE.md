@@ -1,6 +1,8 @@
 # youtube频道
 
 ## 日语频道
+
+### お気に入り
 - [ABEMA Prime #アベプラ](https://www.youtube.com/@prime_ABEMA)
 - [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
 - [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)

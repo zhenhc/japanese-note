@@ -8,7 +8,7 @@
 - [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
 - [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
 
-## [明星频道](https://www.talentinsta.com/youtuber/)
+### [明星频道](https://www.talentinsta.com/youtuber/)
 - [よにのちゃんねる](https://www.youtube.com/@yoninochannel)
 - [川口春奈オフィシャル はーちゃんねる](https://www.youtube.com/@%E5%B7%9D%E5%8F%A3%E6%98%A5%E5%A5%88%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%81%AF%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD)
 - [佐藤 健 / Satoh Takeru](https://www.youtube.com/channel/UC3BSzbgMn2vLYS4Dp_i-bow)
@@ -49,7 +49,7 @@
 
 
 
-## 中文频道
+## 汉语频道
 - [李天豪](https://www.youtube.com/@leecehao)
 - [WTO姐妹會](https://www.youtube.com/@WTOSS)
 - [蔡桑神鬼夜話](https://www.youtube.com/@%E8%94%A1%E6%A1%91%E7%A5%9E%E9%AC%BC%E5%A4%9C%E8%A9%B1)

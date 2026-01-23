@@ -2,7 +2,6 @@
 
 ## 日语频道
 - [ABEMA Prime #アベプラ](https://www.youtube.com/@prime_ABEMA)
-- [ABEMA【アベマ】公式](https://www.youtube.com/@abema)
 - [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
 - [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)
 - [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)

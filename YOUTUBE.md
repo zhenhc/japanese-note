@@ -6,7 +6,6 @@
 - [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
 - [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)
 - [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
-- [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
 
 ### [明星频道](https://www.talentinsta.com/youtuber/)
 - [よにのちゃんねる](https://www.youtube.com/@yoninochannel)
@@ -40,6 +39,7 @@
 - [とある中国人のむいむい](https://www.youtube.com/@chinese-muimui)
 - [タロサックの海外生活ダイアリーTAROSAC](https://www.youtube.com/@tarosac1990)
 - [すぱしーば ちゃんねる](https://www.youtube.com/@spashivachannel)
+- [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
 
 ### 美女
 - [うみちゃんねる【東雲うみ】](https://www.youtube.com/@umi_shinonome)

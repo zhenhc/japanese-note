@@ -9,6 +9,9 @@
 - [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
 - [うみちゃんねる【東雲うみ】](https://www.youtube.com/@umi_shinonome)
 - [悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー](https://www.youtube.com/@heraizz)
+- [しらスタ【歌唱力向上委員会】](https://www.youtube.com/@shira-sta)
+- [MOHA JP【モハブログ】](https://www.youtube.com/@MohaJP)
+
 
 ### [明星频道](https://www.talentinsta.com/youtuber/)
 - [よにのちゃんねる](https://www.youtube.com/@yoninochannel)
@@ -34,7 +37,6 @@
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)
 - [あしや Ashiya](https://www.youtube.com/@azuminoashiya)
 - [MrFuji from Japan](https://www.youtube.com/@mrfujifromjapan)
-- [メラニーと僕](https://www.youtube.com/@%E3%83%A1%E3%83%A9%E3%83%8B%E3%83%BC%E3%81%A8%E5%83%95)
 - [ナノちゃんねる](https://www.youtube.com/@NanoMalay)
 - [Ananya アナンヤ](https://www.youtube.com/@hiananyaa)
 - [チャイナ娘くまちゃん](https://www.youtube.com/@kumajiang)
@@ -44,6 +46,29 @@
 - [すぱしーば ちゃんねる](https://www.youtube.com/@spashivachannel)
 - [スキマにイストリヤ](https://www.youtube.com/@sukimanidaria)
 - [ナスチャンネル Nastia in Japan](https://www.youtube.com/@NasChannelBel)
+- [見た目だけ外国人の生活](https://www.youtube.com/@%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%A0%E3%81%91%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%B8%E3%82%A7%E3%82%B7%E3%82%AB)
+- [サムライフラッグ【SAMURAI CHANNEL】](https://www.youtube.com/@samuraiflag)
+- [バカイト【Bakaito】](https://www.youtube.com/@Bakaito7)
+
+
+### 国际婚姻和情侣
+- [アンネとユウスケ](https://www.youtube.com/@%E3%82%A2%E3%83%B3%E3%83%8D%E3%81%A8%E3%83%A6%E3%82%A6%E3%82%B9%E3%82%B1)
+- [メラニーと僕](https://www.youtube.com/@%E3%83%A1%E3%83%A9%E3%83%8B%E3%83%BC%E3%81%A8%E5%83%95)
+- [Tatsu to Nata](https://www.youtube.com/@tatsutonata)
+- [天然彼女エヴァちゃん](https://www.youtube.com/@waraeva114)
+- [JP + RU Family life](https://www.youtube.com/@JP-RU.FamilyLife)
+- []()
+- 
+
+
+### 映画紹介
+- [映画女王](https://www.youtube.com/@%E6%98%A0%E7%94%BB%E5%A5%B3%E7%8E%8B)
+- [映画弁当 : The movie](https://www.youtube.com/@moviebento)
+- []()
+- []()
+- []()
+- []()
+
 
 
 ## 汉语频道

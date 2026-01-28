@@ -34,6 +34,7 @@
 - [ゆあちゃんねる! 三上悠亜オフィシャルYoutube](https://www.youtube.com/channel/UC0BCfHbNORhd7dsw1R5rw9w)
 
 ### 关于外国人
+- [ボンソワールTV BonSoirTV](https://www.youtube.com/@bonsoirtv)
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)
 - [あしや Ashiya](https://www.youtube.com/@azuminoashiya)
 - [MrFuji from Japan](https://www.youtube.com/@mrfujifromjapan)

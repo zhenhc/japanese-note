@@ -1,8 +1,6 @@
 # youtube频道
 
 ## 日语频道
-
-### お気に入り
 - [ABEMA Prime #アベプラ](https://www.youtube.com/@prime_ABEMA)
 - [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
 - [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)
@@ -11,6 +9,12 @@
 - [悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー](https://www.youtube.com/@heraizz)
 - [しらスタ【歌唱力向上委員会】](https://www.youtube.com/@shira-sta)
 - [MOHA JP【モハブログ】](https://www.youtube.com/@MohaJP)
+
+
+### お気に入り
+- [こねこフィルム](https://www.youtube.com/@CONECOFILM)
+- [ドロピザ 【Drop the Pizza】](https://www.youtube.com/@doropiza)
+- 
 
 
 ### [明星频道](https://www.talentinsta.com/youtuber/)
@@ -34,6 +38,7 @@
 - [ゆあちゃんねる! 三上悠亜オフィシャルYoutube](https://www.youtube.com/channel/UC0BCfHbNORhd7dsw1R5rw9w)
 
 ### 关于外国人
+- [🌹ディアナちゃんねる🌹](https://www.youtube.com/@diana_channel)
 - [ボンソワールTV BonSoirTV](https://www.youtube.com/@bonsoirtv)
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)
 - [あしや Ashiya](https://www.youtube.com/@azuminoashiya)
@@ -65,8 +70,8 @@
 ### 映画紹介
 - [映画女王](https://www.youtube.com/@%E6%98%A0%E7%94%BB%E5%A5%B3%E7%8E%8B)
 - [映画弁当 : The movie](https://www.youtube.com/@moviebento)
-- []()
-- []()
+- [月光夫婦のシネマ](https://www.youtube.com/@moon_cinema)
+- [映画少女](https://www.youtube.com/@EGSJ)
 - []()
 - []()
 

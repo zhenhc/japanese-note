@@ -14,6 +14,18 @@
 ### お気に入り
 - [こねこフィルム](https://www.youtube.com/@CONECOFILM)
 - [ドロピザ 【Drop the Pizza】](https://www.youtube.com/@doropiza)
+- [MrFuji from Japan](https://www.youtube.com/@mrfujifromjapan)
+- []()
+- 
+
+### 最佳学日语频道
+- [こねこフィルム](https://www.youtube.com/@CONECOFILM)
+- [しらスタ【歌唱力向上委員会】](https://www.youtube.com/@shira-sta)
+- [悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー](https://www.youtube.com/@heraizz)
+- []()
+- []()
+- []()
+- []()
 - 
 
 

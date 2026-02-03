@@ -15,7 +15,7 @@
 - [こねこフィルム](https://www.youtube.com/@CONECOFILM)
 - [ドロピザ 【Drop the Pizza】](https://www.youtube.com/@doropiza)
 - [MrFuji from Japan](https://www.youtube.com/@mrfujifromjapan)
-- []()
+- [タントリスの本音](https://www.youtube.com/@%E6%9C%AC%E7%89%A9%E3%81%AE%E3%82%BF%E3%83%B3%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E6%9C%AC%E9%9F%B3)
 - 
 
 ### 最佳学日语频道
@@ -50,6 +50,7 @@
 - [ゆあちゃんねる! 三上悠亜オフィシャルYoutube](https://www.youtube.com/channel/UC0BCfHbNORhd7dsw1R5rw9w)
 
 ### 关于外国人
+- [タントリスの本音](https://www.youtube.com/@%E6%9C%AC%E7%89%A9%E3%81%AE%E3%82%BF%E3%83%B3%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E6%9C%AC%E9%9F%B3)
 - [🌹ディアナちゃんねる🌹](https://www.youtube.com/@diana_channel)
 - [ボンソワールTV BonSoirTV](https://www.youtube.com/@bonsoirtv)
 - [ニック兄さん and高桑](https://www.youtube.com/@nikkuniisan)

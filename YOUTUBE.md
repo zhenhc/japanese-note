@@ -1,22 +1,26 @@
 # youtube频道
 
 ## 日语频道
-- [ABEMA Prime #アベプラ](https://www.youtube.com/@prime_ABEMA)
-- [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
-- [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)
-- [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
-- [うみちゃんねる【東雲うみ】](https://www.youtube.com/@umi_shinonome)
-- [悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー](https://www.youtube.com/@heraizz)
-- [しらスタ【歌唱力向上委員会】](https://www.youtube.com/@shira-sta)
-- [MOHA JP【モハブログ】](https://www.youtube.com/@MohaJP)
-
 
 ### お気に入り
 - [こねこフィルム](https://www.youtube.com/@CONECOFILM)
 - [ドロピザ 【Drop the Pizza】](https://www.youtube.com/@doropiza)
 - [MrFuji from Japan](https://www.youtube.com/@mrfujifromjapan)
 - [タントリスの本音](https://www.youtube.com/@%E6%9C%AC%E7%89%A9%E3%81%AE%E3%82%BF%E3%83%B3%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E6%9C%AC%E9%9F%B3)
+
+
+### 订阅量很多的日语频道
+- [HikakinTV](https://www.youtube.com/@HikakinTV)
+- [Naokiman Show](https://www.youtube.com/@naokimanshow8230)
+- [ABEMA Prime #アベプラ](https://www.youtube.com/@prime_ABEMA)
+- [中田敦彦のYouTube大学 - NAKATA UNIVERSITY](https://www.youtube.com/@NKTofficial)
+- [バキ童チャンネル【ぐんぴぃ】](https://www.youtube.com/@bakibakiDT)
+- [エガちゃんねる EGA-CHANNEL](https://www.youtube.com/@EGA-CHANNEL)
+- [うみちゃんねる【東雲うみ】](https://www.youtube.com/@umi_shinonome)
+- [しらスタ【歌唱力向上委員会】](https://www.youtube.com/@shira-sta)
+- [ドロピザ 【Drop the Pizza】](https://www.youtube.com/@doropiza)
 - 
+
 
 ### 最佳学日语频道
 - [こねこフィルム](https://www.youtube.com/@CONECOFILM)
@@ -28,6 +32,13 @@
 - []()
 - 
 
+### 订阅量很多的
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
 
 ### [明星频道](https://www.talentinsta.com/youtuber/)
 - [よにのちゃんねる](https://www.youtube.com/@yoninochannel)
@@ -68,6 +79,8 @@
 - [見た目だけ外国人の生活](https://www.youtube.com/@%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%A0%E3%81%91%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%B8%E3%82%A7%E3%82%B7%E3%82%AB)
 - [サムライフラッグ【SAMURAI CHANNEL】](https://www.youtube.com/@samuraiflag)
 - [バカイト【Bakaito】](https://www.youtube.com/@Bakaito7)
+- [MOHA JP【モハブログ】](https://www.youtube.com/@MohaJP)
+
 
 
 ### 国际婚姻和情侣

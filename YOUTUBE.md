@@ -19,6 +19,8 @@
 - [うみちゃんねる【東雲うみ】](https://www.youtube.com/@umi_shinonome)
 - [しらスタ【歌唱力向上委員会】](https://www.youtube.com/@shira-sta)
 - [ドロピザ 【Drop the Pizza】](https://www.youtube.com/@doropiza)
+- [【素潜り漁師】マサル Masaru.](https://www.youtube.com/@masaru.9268)
+- []()
 - 
 
 
@@ -32,6 +34,11 @@
 - []()
 - 
 
+### 美女
+- [うみちゃんねる【東雲うみ】](https://www.youtube.com/@umi_shinonome)
+- [じゅえりー](https://www.youtube.com/@Jewelrry)
+- []()
+- 
 
 ### [明星频道](https://www.talentinsta.com/youtuber/)
 - [よにのちゃんねる](https://www.youtube.com/@yoninochannel)

@@ -1,4 +1,4 @@
-[菅田将暉](https://utaten.com/artist/lyric/22754)
+[菅田将暉](https://utaten.com/artist/lyric/22754) | [YouTube Music](https://music.youtube.com/@masakisudaSMEJ)
 [フィッシュマンズ](https://utaten.com/artist/lyric/27314)
 [平井堅](https://utaten.com/artist/lyric/1498)
 [羊文学](https://utaten.com/artist/lyric/23809)
@@ -103,7 +103,7 @@
 [山口百恵](https://utaten.com/artist/lyric/1020)
 [松任谷由実](https://utaten.com/artist/lyric/2949)
 [宇多田ヒカル](https://utaten.com/artist/lyric/4934)
-[椎名林檎](https://utaten.com/artist/lyric/1375)
+[椎名林檎](https://utaten.com/artist/lyric/1375) | [YouTube Music](https://music.youtube.com/@ringosheenaofficial)
 []()
 
 

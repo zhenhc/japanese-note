@@ -61,7 +61,7 @@
 | 53 | [DREAMS COME TRUE](https://utaten.com/artist/lyric/118) | 1988 | [YouTube Music](https://music.youtube.com/@dct_official) | [Spotify](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) |
 | 54 | [小野リサ](https://utaten.com/artist/11782/) | 1989 | [YouTube Music](https://music.youtube.com/search?q=%E5%B0%8F%E9%87%8E%E3%83%AA%E3%82%B5) |  |
 | 55 | [BEGIN](https://utaten.com/artist/2046/) | 1990 | [YouTube Music](https://music.youtube.com/search?q=BEGIN) |  |
-| 56 | [小沢健二](https://utaten.com/artist/lyric/1077) | 1990 | [YouTube Music](https://music.youtube.com/search?q=%E5%B0%8F%E6%B2%A2%E5%81%A5%E4%BA%8C) | [Spotify](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) |
+| 56 | [小沢健二](https://utaten.com/artist/lyric/1077) | 1990 | [YouTube Music](https://music.youtube.com/@OzawaKenjiTube) | [Spotify](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) |
 | 57 | [福山雅治](https://utaten.com/artist/lyric/2942) | 1990 | [YouTube Music](https://music.youtube.com/@fukuyamamasaharu) | [Spotify](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) |
 | 58 | [L'Arc-en-Ciel](https://utaten.com/artist/257/) | 1991 | [YouTube Music](https://music.youtube.com/@LArc-en-Ciel-Official) |  |
 | 59 | [ZARD](https://utaten.com/artist/lyric/568) | 1991 | [YouTube Music](https://music.youtube.com/@ZARD_Official) |  |

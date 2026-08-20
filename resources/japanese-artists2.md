@@ -1,6 +1,6 @@
 已将所有艺术家的 YouTube Music 链接统一替换为**精准搜索跳转链接**（采用 `[https://music.youtube.com/search?q=艺术家名](https://music.youtube.com/search?q=艺术家名)` 格式，支持 URL 编码），确保点击后直接跳转并搜索对应的音乐人：
 
-```markdown
+
 [菅田将暉](https://utaten.com/artist/lyric/22754) | [YouTube Music](https://music.youtube.com/search?q=%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89)
 [フィッシュマンズ](https://utaten.com/artist/lyric/27314) | [YouTube Music](https://music.youtube.com/search?q=%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%B3%E3%82%BA)
 [平井堅](https://utaten.com/artist/lyric/1498) | [YouTube Music](https://music.youtube.com/search?q=%E5%B9%B3%E4%BA%95%E5%A0%85)
@@ -107,5 +107,3 @@
 [松任谷由実](https://utaten.com/artist/lyric/2949) | [YouTube Music](https://music.youtube.com/search?q=%E6%9D%BE%E4%BB%BB%E8%B0%B7%E7%94%B1%E5%AE%9F)
 [宇多田ヒカル](https://utaten.com/artist/lyric/4934) | [YouTube Music](https://music.youtube.com/search?q=%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB)
 [椎名林檎](https://utaten.com/artist/lyric/1375) | [YouTube Music](https://music.youtube.com/search?q=%E6%A4%85%E5%90%8D%E6%9E%97%E6%AA%80)
-
-```

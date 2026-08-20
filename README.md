@@ -1,4 +1,4 @@
-## [日本艺术家](./resources/japanese-artists.md)
+## [日本艺术家](./resources/japanese-artists3.md)
 
 ## [日语歌词](./resources/japanese-lyrics.md)
 

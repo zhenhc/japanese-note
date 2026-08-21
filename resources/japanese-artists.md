@@ -104,7 +104,34 @@
 [松任谷由実](https://utaten.com/artist/lyric/2949)
 [宇多田ヒカル](https://utaten.com/artist/lyric/4934)
 [椎名林檎](https://utaten.com/artist/lyric/1375)
+[坂本九](https://utaten.com/artist/lyric/1584)
 []()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
+
+
+
+
+
+
 
 
 

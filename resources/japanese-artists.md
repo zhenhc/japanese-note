@@ -108,7 +108,7 @@
 [HY](https://utaten.com/artist/lyric/8289)
 [GRe4N BOYZ](https://utaten.com/artist/lyric/3761)
 [CHAGE and ASKA](https://utaten.com/artist/lyric/2096)
-[]()
+[久保田早紀](https://utaten.com/artist/lyric/1248)
 []()
 []()
 []()

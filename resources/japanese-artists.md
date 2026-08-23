@@ -110,7 +110,7 @@
 [CHAGE and ASKA](https://utaten.com/artist/lyric/2096)
 [久保田早紀](https://utaten.com/artist/lyric/1248)
 [さだまさし](https://utaten.com/artist/lyric/108)
-[]()
+[吉幾三](https://utaten.com/artist/lyric/2723)
 []()
 []()
 []()

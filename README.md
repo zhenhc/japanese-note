@@ -4,6 +4,8 @@
 
 ## [日语动词变形](./resources/日语动词变形.md)
 
+## [文法一覧](./resources/文法一覧.md)
+
 ## [日语歌词](./resources/japanese-lyrics.md)
 
 ## [youtube频道](./YOUTUBE.md)

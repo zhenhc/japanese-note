@@ -1,4 +1,4 @@
-## [格助詞の用法一覧](./resources/格助詞の用法一覧.md)
+## [格助詞の用法一覧](https://mainichi-nonbiri.com/jltct/case-particles/)
 が　を　に　へ　で　から　まで　より　と　の　
 
 ## [日本艺术家](./resources/japanese-artists.md)

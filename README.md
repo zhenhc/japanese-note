@@ -1,3 +1,6 @@
+## [格助詞の用法一覧](./resources/格助詞の用法一覧.md)
+が　を　に　へ　で　から　まで　より　と　の　
+
 ## [日本艺术家](./resources/japanese-artists.md)
 
 ## [日语100个最高频音读速查表](./resources/日语100个最高频音读速查表.md)

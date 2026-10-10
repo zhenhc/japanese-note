@@ -3,6 +3,8 @@
 
 ## [日本艺术家](./resources/japanese-artists.md)
 
+## [ウィキぺディア](./resources/ウィキぺディア.md)
+
 ## [日语100个最高频音读速查表](./resources/日语100个最高频音读速查表.md)
 
 ## [日语动词变形](./resources/日语动词变形.md)

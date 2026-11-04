@@ -1,13 +1,12 @@
 ## 资源
-[日本艺术家](./resources/japanese-artists.md)
 [ウィキぺディア](./resources/ウィキぺディア.md)
+[日本艺术家](./resources/japanese-artists.md)
 [youtube频道](./resources/YOUTUBE.md)
 
+[文法一覧](./resources/文法一覧.md)
 [日语100个最高频音读速查表](./resources/日语100个最高频音读速查表.md)
 [日语动词变形](./resources/日语动词变形.md)
-[文法一覧](./resources/文法一覧.md)
 [日语歌词](./resources/japanese-lyrics.md)
-[youtube频道](./resources/YOUTUBE.md)
 [nhk新闻](./resources/nhk-news.md)
 
 ## 第三方链接

@@ -6,6 +6,7 @@
 [文法一覧](./resources/文法一覧.md)
 [日语100个最高频音读速查表](./resources/日语100个最高频音读速查表.md)
 [日语动词变形](./resources/日语动词变形.md)
+[日语2000个最常用词汇](./resources/日语2000个最常用词汇.md)
 [日语歌词](./resources/japanese-lyrics.md)
 [nhk新闻](./resources/nhk-news.md)
 
